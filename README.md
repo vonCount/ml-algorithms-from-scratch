@@ -1,7 +1,7 @@
 # ml-algorithms-from-scratch
 
 ## Linear algorithms
-1. Simple Linear regression
+1. Simple Linear Regression
 2. Multivariate Linear Regression
 3. Logistic Regression
 4. Perceptron
